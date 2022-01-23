@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Sejung 👋
 
-<!--
-**sejungk/sejungk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX Designer, a Developer, and a Student.
 
-Here are some ideas to get you started:
+Check out my portfolio: <strong><a href="[https://www.sejungkim.com](https://www.sejungkim.com/)">sejungkim.com</a></strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>Some things about me</h3>
+<ul>
+<li>🎨 I'm a UX Designer at a fintech startup</li>
+<li>🎓 I'm pursuing my BFA in Communication Design from <strong><a href ="[https://www.newschool.edu/parsons/](https://www.newschool.edu/parsons/)">Parsons School of Design</a></strong> with a focus in UX and a minor in Psychology</li>
+<li>📖 I am currently reading <em>Thinking, Fast and Slow</em> by Daniel Kahneman</li>
+<li>⚡ Fun Fact: I love to paint, specifically with acrylics!</li>
+</ul>
+
