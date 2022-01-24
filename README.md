@@ -1,6 +1,6 @@
 ### Hi, I'm Sejung 👋
 
-I'm a UX designer, a developer, and a student at <strong><a href="https://www.newschool.edu/parsons/">Parsons School of Design</a></strong>.
+I'm a UX designer, a developer, and a student at <strong><a href="https://www.newschool.edu/parsons/" target="_blank">Parsons School of Design</a></strong>.
 
 Check out my portfolio: <strong><a href="https://www.sejungkim.com/">sejungkim.com</a></strong>
 
@@ -51,9 +51,9 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/">sejungkim.c
 
 <h3>Some ways to contact me</h3>
 <p>
-    <a href="https://www.linkedin.com/in/sejungkim"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://github.com/sejungk"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
-    <a href="mailto:kims762@newschool.edu"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/sejungkim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://github.com/sejungk" target="_blank"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
+    <a href="mailto:kims762@newschool.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
 </p>
 
 <!-- 
