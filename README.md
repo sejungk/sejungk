@@ -40,13 +40,14 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/">sejungkim.c
 
 <h3 align="left">Some things I use to design</h3>
 <p>
-    <img alt="AfterEffects" src="https://img.shields.io/badge/Adobe After Effects-000?style=flat-square&logo=Adobe after effects&logoColor=9996ff" />
-    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-000?style=flat-square&logo=adobe illustrator&logoColor=ff9b00" />
-    <img alt="Indesign" src="https://img.shields.io/badge/Adobe InDesign-000?style=flat-square&logo=Adobe InDesign&logoColor=ff2e63" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-000?style=flat-square&logo=Adobe Photoshop&logoColor=26a6ff" />
-    <img alt="PremierePro" src="https://img.shields.io/badge/Adobe Premiere Pro-000?style=flat-square&logo=Adobe Premiere Pro&logoColor=ec72ff" />
-    <img alt="XD" src="https://img.shields.io/badge/Adobe XD-000?style=flat-square&logo=Adobe XD&logoColor=#ff4cf2" />
     <img alt="Figma" src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="XD" src="https://img.shields.io/badge/Adobe XD-000?style=flat-square&logo=Adobe XD&logoColor=#ff4cf2" />
+    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-000?style=flat-square&logo=adobe illustrator&logoColor=ff9b00" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-000?style=flat-square&logo=Adobe Photoshop&logoColor=26a6ff" />
+    <img alt="AfterEffects" src="https://img.shields.io/badge/Adobe After Effects-000?style=flat-square&logo=Adobe after effects&logoColor=9996ff" />
+    <img alt="Indesign" src="https://img.shields.io/badge/Adobe InDesign-000?style=flat-square&logo=Adobe InDesign&logoColor=ff2e63" />
+    <img alt="PremierePro" src="https://img.shields.io/badge/Adobe Premiere Pro-000?style=flat-square&logo=Adobe Premiere Pro&logoColor=ec72ff" />
+    
 </p>
 
 <h3>Some ways to contact me</h3>
