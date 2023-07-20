@@ -10,7 +10,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/">sejungkim.c
 <ul>
 <li>🎨 I'm a UX Engineer at a fintech startup</li>
 <li>🎓 I'm pursuing my BFA in Communication Design with a focus in UX and a Minor in Psychology</li>
-<li>👩🏻‍💻 I'm a Fullstack Academy Grad</li>
+<li>💻 I'm a Fullstack Academy Grad</li>
 <li>📖 I'm currently reading <em>Surrounded by Idiots</em> by Thomas Erikson</li>
 <li>⚡ Fun Fact: I love to snowboard!</li>
 </ul>
