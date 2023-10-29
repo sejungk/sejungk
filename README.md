@@ -2,7 +2,7 @@
 
 I'm a UX designer, developer, and student at <strong><a href="https://www.newschool.edu/parsons/" target="_blank">Parsons School of Design</a></strong>.
 
-Check out my portfolio: <strong><a href="https://www.sejungkim.com/">sejungkim.com</a></strong>
+Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_blank">sejungkim.com</a></strong>
 
 ---
 
