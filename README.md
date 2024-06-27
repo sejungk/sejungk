@@ -55,7 +55,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
 ![Sejung's GitHub stats](https://github-readme-stats-six-nu-61.vercel.app/api?username=sejungk&show_icons=true&bg_color=00000000)
 -->
 
-![Top Langs](https://github-readme-stats-six-nu-61.vercel.app/api/top-langs/?username=sejungk&layout=compact)
+![Top Langs](https://github-readme-stats-six-nu-61.vercel.app/api/top-langs/?username=sejungk&hide=scss,css,html,typescript&layout=compact)
 
 
 <h3>Some ways to contact me</h3>
