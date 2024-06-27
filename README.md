@@ -52,6 +52,8 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
     
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejungk&layout=compact)
+
 <h3>Some ways to contact me</h3>
 <p>
     <a href="https://www.linkedin.com/in/sejungkim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
