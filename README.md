@@ -1,9 +1,9 @@
 ### Hi, I'm Sejung 👋
 
 I'm a developer & UX designer.
-
+<!-- 
 Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_blank">sejungkim.com</a></strong>
-
+-->
 ---
 
 <h3>Some things about me</h3>
