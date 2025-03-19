@@ -8,7 +8,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
 
 <h3>Some things about me</h3>
 <ul>
-<li>🤖 I'm an AI LLM Prompt Engineer for ChatGPT</li>
+<li>🤖 I work on GenAI @ Meta</li>
 <!-- <li>🎒 I'm a CS Student @ OSU</li>-->
 <li>🎓 I'm a Parsons School of Design Alumn with a BFA in Communication Design and a Minor in Psychology</li>
 <li>💻 I'm a Fullstack Academy Grad</li>
