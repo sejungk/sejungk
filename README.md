@@ -9,7 +9,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
 <h3>Some things about me</h3>
 <ul>
 <li>🤖 Currently working on GenAI @ Meta</li>
-<li>🎓 Dual degrees: BFA in Communication Design (UX/HCI) from Parsons School of Design & BS in Computer Science from OSU</li>
+<li>🎓 Dual degrees: BS in Computer Science from OSU & BFA in Communication Design (UX/HCI) from Parsons School of Design</li>
 <li>📖 Currently reading <em>The Stranger</em> by Albert Camus</li>
 <li>⚡ Fun Fact: I love to snowboard!</li>
 </ul>
