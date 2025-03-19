@@ -10,7 +10,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
 <ul>
 <li>🤖 I work on GenAI @ Meta</li>
 <!-- <li>🎒 I'm a CS Student @ OSU</li>-->
-<li>🎓 I'm a Parsons School of Design Alumn with a BFA in Communication Design and a Minor in Psychology</li>
+<li>🎓 I have a BFA in Communication Design (UX/HCI) and a BS in CS</li>
 <li>💻 I'm a Fullstack Academy Grad</li>
 <li>📖 I'm currently reading <em>Surrounded by Idiots</em> by Thomas Erikson</li>
 <li>⚡ Fun Fact: I love to snowboard!</li>
