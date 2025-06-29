@@ -11,7 +11,7 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
 <li>🤖 Currently working on GenAI @ Meta</li>
 <li>🎓 Dual degrees: BS in Computer Science from OSU & BFA in Communication Design (UX/HCI) from Parsons School of Design</li>
 <li>📖 Currently reading <em>The Stranger</em> by Albert Camus</li>
-<li>⚡ Fun Fact: On my days off, I love snowboarding, bouldering, and hiking!</li>
+<li>⚡ Fun Fact: On my days off, I enjoy snowboarding, bouldering, and hiking!</li>
 </ul>
   
 <h3 align="left">Some things I use to code</h3>
