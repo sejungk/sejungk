@@ -1,6 +1,6 @@
 ### Hi, I'm Sejung 👋
 
-I live in the intersection of design and code.
+Find me at the intersection of design and code.
 
 ---
 
