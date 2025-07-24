@@ -1,19 +1,21 @@
 ### Hi, I'm Sejung 👋
 
-I'm a developer & UX designer.
-<!-- 
-Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_blank">sejungkim.com</a></strong>
--->
+I live in the intersection of design and code.
+
 ---
 
-<h3>Some things about me</h3>
-<ul>
-<li>🤖 Currently working on GenAI @ Meta</li>
-<li>🎓 Dual degrees: BS in Computer Science from OSU & BFA in Communication Design (UX/HCI) from Parsons School of Design</li>
-<li>📖 Currently reading <em>The Stranger</em> by Albert Camus</li>
-<li>⚡ Fun Fact: I enjoy snowboarding, bouldering, and hiking!</li>
-</ul>
-  
+### Some things about me
+
+- 🤖 Currently working on GenAI @ Meta  
+- 🎓 CS @ [OSU](https://oregonstate.edu) & HCI/UX @ [Parsons School of Design](https://www.newschool.edu/parsons/)  
+- 📖 Currently reading *The Stranger* by Albert Camus  
+- ⚡ Fun Fact: I enjoy snowboarding, bouldering, and hiking!
+
+#### Some ways to contact me
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/sejungkim) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333333.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:sejungkim129@gmail.com)
+
+<!-- 
 <h3 align="left">Some things I use to code</h3>
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
@@ -47,22 +49,15 @@ Check out my portfolio: <strong><a href="https://www.sejungkim.com/" target="_bl
     <img alt="AfterEffects" src="https://img.shields.io/badge/Adobe After Effects-000?style=flat-square&logo=Adobe after effects&logoColor=9996ff" />
     <img alt="Indesign" src="https://img.shields.io/badge/Adobe InDesign-000?style=flat-square&logo=Adobe InDesign&logoColor=ff2e63" />
     <img alt="PremierePro" src="https://img.shields.io/badge/Adobe Premiere Pro-000?style=flat-square&logo=Adobe Premiere Pro&logoColor=ec72ff" />
-    
 </p>
-<!-- 
-![Sejung's GitHub stats](https://github-readme-stats-six-nu-61.vercel.app/api?username=sejungk&show_icons=true&bg_color=00000000)
 -->
 
-![Top Langs](https://github-readme-stats-six-nu-61.vercel.app/api/top-langs/?username=sejungk&hide=scss,css,html,typescript&layout=compact)
-
-
-<h3>Some ways to contact me</h3>
-<p>
-    <a href="https://www.linkedin.com/in/sejungkim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-    <a href="mailto:sejungkim129@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
-</p>
-
 <!-- 
-  <a href="https://www.linkedin.com/in/sejungkim"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejungkim/" alt="LinkedIn"></a>
-  <a href="https://github.com/sejungk"><img src="https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sejungk" alt="Github"></a>
- -->
+![Sejung's GitHub stats](https://github-readme-stats-six-nu-61.vercel.app/api?username=sejungk&show_icons=true&bg_color=00000000)
+
+
+![Top Langs](https://github-readme-stats-six-nu-61.vercel.app/api/top-langs/?username=sejungk&hide=scss,css,html,typescript&layout=compact)
+-->
+
+
+
