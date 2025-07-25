@@ -4,7 +4,7 @@ Find me at the intersection of design and code.
 
 ---
 
-#### Some things about me
+### Some things about me
 
 - 🤖 Currently working on GenAI @ Meta  
 - 🎓 CS @ [OSU](https://oregonstate.edu) & HCI/UX @ [Parsons School of Design](https://www.newschool.edu/parsons/)  
