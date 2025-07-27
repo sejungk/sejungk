@@ -7,7 +7,7 @@ Find me at the intersection of design and code.
 ### Some things about me
 
 - 🤖 Currently working on GenAI @ Meta  
-- 🎓 CS @ [OSU](https://oregonstate.edu) & HCI/UXD @ [Parsons School of Design](https://www.newschool.edu/parsons/)  
+- 🎓 CS @ <a href="https://oregonstate.edu" target="_blank">OSU</a> & HCI/UXD @ <a href="https://www.newschool.edu/parsons/" target="_blank">Parsons School of Design</a>
 - 📖 Currently reading *The Stranger* by Albert Camus  
 - ⚡ Fun Fact: I enjoy snowboarding, bouldering, and hiking!
 
