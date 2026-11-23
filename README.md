@@ -6,7 +6,7 @@ Find me at the intersection of code and design.
 
 ### Some things about me
 
-- 🤖 Software Engineer @ AWS
+- 🤖 I'm a Software Engineer @ AWS
 - 🎓 CS @ [Oregon State University](https://oregonstate.edu) | HCI & UX Design @ [Parsons School of Design](https://www.newschool.edu/parsons/)
 - 📖 Currently reading *The Stranger* by Albert Camus  
 - ⚡ Fun Fact: I love snowboarding, running, painting, and '90s rock music!
